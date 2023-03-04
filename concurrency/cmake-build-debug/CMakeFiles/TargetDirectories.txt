@@ -1,0 +1,4 @@
+/Users/caihongyang/workspace/cpp_practice/concurrency/cmake-build-debug/CMakeFiles/concurrency.dir
+/Users/caihongyang/workspace/cpp_practice/concurrency/cmake-build-debug/CMakeFiles/producer.dir
+/Users/caihongyang/workspace/cpp_practice/concurrency/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/caihongyang/workspace/cpp_practice/concurrency/cmake-build-debug/CMakeFiles/rebuild_cache.dir

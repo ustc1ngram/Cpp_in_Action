@@ -1,0 +1,3 @@
+/Users/caihongyang/workspace/cpp_practice/cast-name/cmake-build-debug/CMakeFiles/cast_name.dir
+/Users/caihongyang/workspace/cpp_practice/cast-name/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/caihongyang/workspace/cpp_practice/cast-name/cmake-build-debug/CMakeFiles/rebuild_cache.dir
